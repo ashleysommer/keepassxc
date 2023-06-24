@@ -1578,10 +1578,6 @@ If you do not have a key file, please leave the field empty.</source>
 <context>
     <name>DatabaseSettingsDialog</name>
     <message>
-        <source>Advanced Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1775,14 +1771,6 @@ Are you sure you want to continue without a password?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change existing decryption time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Decryption time in seconds</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1863,11 +1851,6 @@ Are you sure you want to continue without a password?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>unchanged</source>
-        <comment>Database decryption time is unchanged</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Number of rounds too high</source>
         <comment>Key transformation rounds</comment>
         <translation type="unfinished"></translation>
@@ -1920,6 +1903,18 @@ If you keep this number, your database will not be protected from brute force at
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Encryption Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5566,14 +5561,6 @@ We recommend you use the AppImage available on our downloads page.</source>
     </message>
     <message>
         <source>Here you can adjust the database encryption settings. Don&apos;t worry, you can change them later in the database settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Advanced Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Simple Settings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
